@@ -28,6 +28,90 @@
   color: #61dafb;
 }
 
+.titre-1 {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 96px;
+  line-height: 131px;
+  letter-spacing: -1.5px;
+  color: #000000;
+}
+
+.titre-2 {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 60px;
+  line-height: 82px;
+  color: #000000;
+}
+
+.titre-3 {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 48px;
+  line-height: 65px;
+  color: #000000;
+}
+
+.titre-4 {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 46px;
+  letter-spacing: 0.25px;
+  color: #000000;
+}
+
+.titre-5 {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 33px;
+  color: #000000;
+}
+
+.body-font {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: 0.44px;
+  color: #000000;
+}
+
+.link {
+  font-family: 'Encode Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: 0.44px;
+  text-decoration-line: underline;
+
+  /* secondary/Blue */
+
+  color: #8AB4F8;
+}
+
+.Link-clicked-hover {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 26px;
+  text-decoration-line: underline;
+
+  /* secondary/Dark Purple */
+
+  color: #816DFD;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
